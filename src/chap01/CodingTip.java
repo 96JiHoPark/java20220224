@@ -18,7 +18,13 @@ public class CodingTip {
 		
 		// 저장 : ctrl + s
 		
+		// 한 줄 지우기 : ctrl + d
 		
+		
+		
+		/////////////////////////////
+		
+		// 정리 : ctrl + shift + f
 		
 	}
 }
