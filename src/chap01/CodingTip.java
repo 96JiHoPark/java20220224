@@ -20,7 +20,9 @@ public class CodingTip {
 		
 		// 한 줄 지우기 : ctrl + d
 		
+		// 힌트 : ctrl + 1
 		
+		// 자동완성 : ctrl + space
 		
 		/////////////////////////////
 		
